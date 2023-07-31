@@ -1,4 +1,4 @@
-package code.with.cal.persistenttimerapp
+package code.with.arif.persistenttimerapp
 
 import android.content.Context
 import android.content.SharedPreferences
